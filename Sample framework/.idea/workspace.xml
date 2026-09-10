@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="claude-opus-4.7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="104d93c8-396e-4b50-8bc2-3d03e0c7b6a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/VatsalyaShukla/Desktop/Sample framework" value="3J3g2STlEJtjMSf295PJTZF3ulz" />
+    </persistenceIdMap>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000005710023425" />
+      <entry key="MS500" value="1.056406295466402" />
+      <entry key="S2" value="1.4873398154457744" />
+      <entry key="S5" value="1.7501234767236622" />
+      <entry key="S10" value="1.8661133961263467" />
+      <entry key="S30" value="2.0063694387249216" />
+      <entry key="S60" value="2.3813303137454946" />
+      <entry key="M2" value="3.1587502292350838" />
+      <entry key="M5" value="4.356757859273472" />
+      <entry key="M10" value="5.047463245464636" />
+      <entry key="M15" value="5.330618116795653" />
+      <entry key="M30" value="5.646551229122516" />
+      <entry key="H1" value="5.818260775905796" />
+      <entry key="H2" value="5.907833205019919" />
+      <entry key="H4" value="5.953586686624267" />
+      <entry key="D1" value="5.992218140174875" />
+      <entry key="W1" value="5.998887165277972" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.493457739903497E-4" />
+      <entry key="MS500" value="0.23802535752755977" />
+      <entry key="S2" value="1.0381674099226343" />
+      <entry key="S5" value="1.518518466678755" />
+      <entry key="S10" value="1.7388231805433414" />
+      <entry key="S30" value="1.9596765795802007" />
+      <entry key="S60" value="2.353036063174194" />
+      <entry key="M2" value="3.139732581545535" />
+      <entry key="M5" value="4.346420367624127" />
+      <entry key="M10" value="5.041569681867114" />
+      <entry key="M15" value="5.326498042747864" />
+      <entry key="M30" value="5.644386744907811" />
+      <entry key="H1" value="5.8171505859852735" />
+      <entry key="H2" value="5.907270878120651" />
+      <entry key="H4" value="5.953303683535569" />
+      <entry key="D1" value="5.9921707147517305" />
+      <entry key="W1" value="5.998880383857217" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J3fktTSe5bajMhZAjMoLhDr5BC" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="file:///c%3A/Users/VatsalyaShukla/Desktop/Sample%20framework/.github/agents/frame.agent.md" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="claude-opus-4.7" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VatsalyaShukla/Desktop/Sample framework/.github",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.customization.CustomizationConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2026.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VatsalyaShukla\Desktop\Sample framework\.github" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VatsalyaShukla\Desktop\Sample framework\.github\agents" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Sample framework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="104d93c8-396e-4b50-8bc2-3d03e0c7b6a5" name="Changes" comment="" />
+      <created>1788894819037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788894819037</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="includedJSSourcePackages">
+      <set>
+        <option value="playwright" />
+      </set>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

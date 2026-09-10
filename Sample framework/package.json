@@ -1,0 +1,27 @@
+{
+  "name": "playwright-ts-skeleton",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Enterprise-grade Playwright + TypeScript skeleton framework.",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --project=chromium-ui",
+    "test:api": "playwright test --project=api",
+    "test:smoke": "playwright test --grep @smoke",
+    "test:headed": "playwright test --headed",
+    "test:debug": "PWDEBUG=1 playwright test",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . --ext .ts",
+    "install:browsers": "playwright install --with-deps"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^20.11.0",
+    "typescript": "^5.4.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
