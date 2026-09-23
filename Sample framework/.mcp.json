@@ -6,7 +6,8 @@
       "args": [
         "-y",
         "@playwright/mcp@latest",
-        "--headless"
+        "--config",
+        "./playwright-mcp.config.json"
       ]
     }
   }
