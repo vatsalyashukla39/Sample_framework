@@ -7,7 +7,11 @@
     <option name="selectedModelId" value="claude-opus-4.7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104d93c8-396e-4b50-8bc2-3d03e0c7b6a5" name="Changes" comment="" />
+    <list default="true" id="104d93c8-396e-4b50-8bc2-3d03e0c7b6a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,21 @@
       <entry key="_C:/Users/VatsalyaShukla/Desktop/Sample framework" value="3J3g2STlEJtjMSf295PJTZF3ulz" />
     </persistenceIdMap>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vatsalyashukla39&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vatsalyashukla39/Sample_framework.git&quot;,
+    &quot;accountId&quot;: &quot;bec3b577-2aa9-44c3-bf5e-8a474fcafa79&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0000005710023425" />
@@ -85,7 +104,7 @@
   <component name="ProjectSessionTemplates">
     <option name="panelTemplate">
       <template>
-        <option name="modeId" value="file:///c%3A/Users/VatsalyaShukla/Desktop/Sample%20framework/.github/agents/frame.agent.md" />
+        <option name="modeId" value="Agent" />
         <option name="model">
           <model>
             <option name="modelType" value="builtin_id" />
@@ -105,6 +124,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -121,7 +141,7 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.github.copilot.settings.customization.CustomizationConfigurable",
     "to.speed.mode.migration.done": "true",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2026.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+    "ts.external.directory.path": "C:\\Users\\VatsalyaShukla\\AppData\\Roaming\\JetBrains\\IntelliJIdea2026.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -139,12 +159,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Sample framework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Sample framework" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>
@@ -165,6 +196,18 @@
         <option value="playwright" />
       </set>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/playwright/lib/agents/generateAgents.js</url>
+          <line>272</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
