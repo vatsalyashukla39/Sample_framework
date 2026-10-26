@@ -9,3 +9,5 @@ playwright/.auth/
 !.env.example
 *.log
 .DS_Store
+.codemie/
+_codemie_task.txt
