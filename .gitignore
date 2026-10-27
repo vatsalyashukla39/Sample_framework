@@ -11,3 +11,4 @@ playwright/.auth/
 .DS_Store
 .codemie/
 _codemie_task.txt
+docs/
